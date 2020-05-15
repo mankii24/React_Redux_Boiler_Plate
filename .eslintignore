@@ -1,0 +1,10 @@
+/src/**/*.scss
+
+/src/**/*.css
+
+/src/**/*.test.js
+
+/src/assets
+/src/components/HelperTest
+
+/src/*.svg
